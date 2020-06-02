@@ -4,19 +4,9 @@
 # checkpoint
 .ipynb_checkpoints/
 
-# vscode config
-.vscode/
+# hint pdfs
+/exercise-hints
 
-# test folder
-test/
-# but not pkg etst
-!pkg/test
+# book source cods
+/source_code
 
-# pkg cache
-.hypothesis
-
-# cache
-source_code/.cache
-.pytest_cache
-__pycache__
-.idea
